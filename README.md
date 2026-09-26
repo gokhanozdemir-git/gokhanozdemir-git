@@ -41,9 +41,3 @@ Software Developer | AI & Machine Learning Developer | Full-Stack Web & Mobile
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<SENIN-GITHUB-KULLANICI-ADIN>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SENIN-GITHUB-KULLANICI-ADIN>&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
